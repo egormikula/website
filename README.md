@@ -1,2 +1,2 @@
 # Bewerbung/website
-Das ist meine erste eigene Projekt
+Das ist mein erstes eigenes Projekt.
